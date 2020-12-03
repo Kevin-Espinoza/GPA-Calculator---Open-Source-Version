@@ -12,6 +12,10 @@
 #  Author information:
 #  Author name: Kevin Espinoza
 #  Author email: k.espinoza1012@csu.fullerton.edu
+#  Author name: Jorge Diaz
+#  Author email: jorgediaz@csu.fullerton.edu
+#  Author name: Brian Landaverde
+#  Author email: @csu.fullerton.edu
 #  Repository: <https://github.com/kespinoza1012/GPA-Calculator---Open-Source-Version>
 #  GPA Calculator
 #  Due Date: 2020-Dec-03
