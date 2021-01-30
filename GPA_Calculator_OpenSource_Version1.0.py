@@ -12,7 +12,7 @@
 #  Author information:
 #  Author name: Kevin Espinoza
 #  Author email: k.espinoza1012@csu.fullerton.edu
-#  Repository: <https://github.com/kespinoza1012/GPA-Calculator---Open-Source-Version>
+#  Repository: <https://github.com/Kevin-Espinoza/GPA-Calculator---Open-Source-Version>
 #  GPA Calculator
 #  Due Date: 2020-Dec-03
 #
